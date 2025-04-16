@@ -1,0 +1,17 @@
+*.xlsx
+*.csv
+*.parquet
+.env
+*.png
+*.zip
+*.db
+buildings_pipeline/storage
+buildings_pipeline/.telemetry
+__pycache__
+backup
+test.py
+test.ipynb
+logs
+*.log
+.DS_Store
+*.txt
